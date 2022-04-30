@@ -1,0 +1,17 @@
+{
+  "name": "express-typescript-template",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "repository": "https://github.com/Cozy-Ho/express-typescript-template",
+  "author": "rkdwn <kj2693119@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "module-alias": "^2.2.2"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "typescript": "^4.6.3"
+  }
+}
